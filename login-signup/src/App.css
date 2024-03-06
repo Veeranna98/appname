@@ -36,13 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.box1{
-  width: 100px;
-  height: 100px;
-  align-self: left;
-  display: block;
-  display: grid;
-  background-color: #61dafb;
-  margin: 10px;
-  padding: 20px;
-}
