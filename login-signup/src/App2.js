@@ -10,4 +10,4 @@ export default function App2() {
             <button onClick={()=>handleClick('hello veera')}>here</button>
         </div>
       )
-      }
+      }   
